@@ -1,6 +1,8 @@
 # birnduino
 An Arduino clone with an RS232 serial interface.
-Long time ago, I bought a board call "Freeduino Serial", which is an Arduino clone having an RS232 serial interface. But it seems that it is not possible to get any of these boards now, so I decided to create my own based on some information about the Freeduino I found in the internet and having a look at my "Freeduino Serial" board...
+
+Long time ago, I bought a board call "Freeduino serial v2.0", which is an Arduino clone having an RS232 serial interface. But it seems that it is not available anymore now and I could find the original files of the "v2.0". So I decided to create my own based on some information about the Freeduino I found in the internet and having a look at my "Freeduino Serial v2.0" board...
+
 This repository contains KiCad 6.0 project files.
 
 ## Old resouces
