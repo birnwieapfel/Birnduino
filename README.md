@@ -7,11 +7,11 @@ This repository contains KiCad 6.0 project files.
 
 ## Old resouces
 Here are some links which helped to realize this project:
-https://thdarduino.blogspot.com/2015/12/freeduino-serial-v20-bausatz.html
+- https://thdarduino.blogspot.com/2015/12/freeduino-serial-v20-bausatz.html
 
 ## Other links
-https://freeduino.org/freeduino_open_designs-html
-https://github.com/WestfW/Freeduino-historical
+- https://freeduino.org/freeduino_open_designs-html
+- https://github.com/WestfW/Freeduino-historical
 
 ## License
 Copyright 2022, Robert Birn. All Rights Reserved.
