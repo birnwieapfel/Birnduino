@@ -23,4 +23,3 @@ This work, "birnduino", is a derivative of "Freeduino Serial" by CircuitJoy and 
 "Freeduino Serial" is based on the Arduino Diecimila reference design (www.arduino.cc/main/ArduinoBoardDiecimila).
 
 The work used the **Arduino KiCad Library**, available here: https://github.com/Alarm-Siren/arduino-kicad-library.
-
