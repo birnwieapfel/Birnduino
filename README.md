@@ -15,7 +15,9 @@ Here are some links which helped to realize this project:
 
 ## License
 Copyright 2022, Robert Birn. All Rights Reserved.
-This work, "birnduino", is a derivative of "Freeduino Serial" by CircuitJoy and Spiffed, used under CC BY-SA 2.5. "birnduino" is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/legalcode) by Robert Birn.
+"birnduino" is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/legalcode) by Robert Birn.
+This work, "birnduino", is a derivative of "Freeduino Serial" by CircuitJoy and Spiffed, released under CC BY-SA 2.5. 
+"Freeduino Serial" is based on the Arduino Diecimila reference design (www.arduino.cc/main/ArduinoBoardDiecimila).
 
 The work uses the **Arduino KiCad Library**, available here: https://github.com/Alarm-Siren/arduino-kicad-library.
 I added an additional board "Arduino_Serial_Shield" to this library.
