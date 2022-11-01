@@ -22,7 +22,5 @@ This work, "birnduino", is a derivative of "Freeduino Serial" by CircuitJoy and 
 
 "Freeduino Serial" is based on the Arduino Diecimila reference design (www.arduino.cc/main/ArduinoBoardDiecimila).
 
+The work used the **Arduino KiCad Library**, available here: https://github.com/Alarm-Siren/arduino-kicad-library.
 
-The work uses the **Arduino KiCad Library**, available here: https://github.com/Alarm-Siren/arduino-kicad-library.
-I added an additional board "Arduino_Serial_Shield" to this library.
-All files for that library are store in the subfolder "arduino-kicad-libary" and are licensed under the GNU LGPL v2.1, which can be found in arduino-kicad-library/LICENSE.txt.
